@@ -1,12 +1,13 @@
 ---
 title: "The Quantum Measurement Paradox Dissolved: An Equation‑by‑Equation Audit under the UPC Axiom"
-subtitle: The Universal Principle of Collapse  
+subtitle: "The Universal Principle of Collapse"
 author: "Eloy Escagedo Gutierrez"
 project: "The Universal Principle of Collapse (UPC) Research Project"
 version: "v1.0"
-date: ""2025-12-06"
-doi: 10.5281/zenodo.17891685
---- 
+date: "2025-12-06"
+doi: "10.5281/zenodo.17891685"
+---
+
 
 # Table of Contents
 - [Reader’s Orientation Note](#Reader’s Orientation Note)
@@ -297,3 +298,4 @@ Reviews of Modern Physics, 75(3), 715–775.
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
