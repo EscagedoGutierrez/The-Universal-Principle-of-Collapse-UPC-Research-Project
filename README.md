@@ -1,4 +1,3 @@
-# The-Universal-Principle-of-Collapse-UPC-Research-Project
 # The Universal Principle of Collapse (UPC) Research Project
 ## Official Recognition Protocol & Axiomatic Audit Substrate
 
@@ -57,40 +56,40 @@ Here, \(J^{o}\) is the recognition operator, \(|\Psi\rangle\) a quantum state in
 This repository contains twelve research papers by Eloy Escagedo Gutierrez on the **Universal Principle of Collapse (UPC)**. Each paper explores a different facet of the Recognition Protocol and the dynamics of Metric Saturation, Collapse, and Reorganization.
 
 1. **Hidden Kinship Between Marx and Rand**  
-   [Zenodo](https://zenodo.org/records/17867525) · [PhilPapers](https://philpapers.org/rec/ESCHKB) · [Substack](https://eloyescagedogutierrez.substack.com/p/hidden-kinship-between-marx-and-rand)
+   [Local file](papers/01-Hidden-Kinship-Marx-Rand.md) · [Zenodo](https://zenodo.org/records/17867525) · [PhilPapers](https://philpapers.org/rec/ESCHKB) · [Substack](https://eloyescagedogutierrez.substack.com/p/hidden-kinship-between-marx-and-rand)
 
 2. **The Century Shaken: A Note on the Collapse of Marx, Rand, and Materialism**  
-   [Zenodo](https://zenodo.org/records/17889470) · [PhilPapers](https://philpapers.org/rec/ESCTCS-2) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-century-shaken-a-note-on-the)
+   [Local file](papers/02-The-Century-Shaken.md) · [Zenodo](https://zenodo.org/records/17889470) · [PhilPapers](https://philpapers.org/rec/ESCTCS-2) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-century-shaken-a-note-on-the)
 
 3. **Default at Inception: The Logical Collapse of Marx, Rand, and Materialism**  
-   [Zenodo](https://zenodo.org/records/17889814) · [PhilPapers](https://philpapers.org/rec/ESCDAI-3) · [Substack](https://eloyescagedogutierrez.substack.com/p/default-at-inception-the-logical)
+   [Local file](papers/03-Default-at-Inception.md) · [Zenodo](https://zenodo.org/records/17889814) · [PhilPapers](https://philpapers.org/rec/ESCDAI-3) · [Substack](https://eloyescagedogutierrez.substack.com/p/default-at-inception-the-logical)
 
 4. **Ship of Theseus: A 2000‑Year‑Old Paradox Dissolved – The Universal Principle of Collapse**  
-   [Zenodo](https://zenodo.org/records/17889918) · [PhilPapers](https://philpapers.org/rec/ESCSOT-3) · [Substack](https://eloyescagedogutierrez.substack.com/p/ship-of-theseus-a-2000yearold-paradox)
+   [Local file](papers/04-Ship-of-Theseus.md) · [Zenodo](https://zenodo.org/records/17889918) · [PhilPapers](https://philpapers.org/rec/ESCSOT-3) · [Substack](https://eloyescagedogutierrez.substack.com/p/ship-of-theseus-a-2000yearold-paradox)
 
 5. **The Quantum Measurement Problem Solved by the Universal Principle of Collapse (UPC)**  
-   [Zenodo](https://zenodo.org/records/17890168) · [PhilPapers](https://philpapers.org/rec/ESCTQM) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-quantum-measurement-problem-solved)
+   [Local file](papers/05-Quantum-Measurement-Problem-Solved.md) · [Zenodo](https://zenodo.org/records/17890168) · [PhilPapers](https://philpapers.org/rec/ESCTQM) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-quantum-measurement-problem-solved)
 
 6. **The Universal Principle of Collapse: Stress‑Testing Quantum Interpretations**  
-   [Zenodo](https://zenodo.org/records/17890405) · [PhilPapers](https://philpapers.org/rec/ESCTUP) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-universal-principle-of-collapse)
+   [Local file](papers/06-Stress-Testing-Quantum-Interpretations.md) · [Zenodo](https://zenodo.org/records/17890405) · [PhilPapers](https://philpapers.org/rec/ESCTUP) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-universal-principle-of-collapse)
 
 7. **The Quantum Measurement Paradox Dissolved: An Equation‑by‑Equation Audit under the UPC Axiom**  
-   [Zenodo](https://zenodo.org/records/17891685) · [PhilPapers](https://philpapers.org/rec/ESCTQM-2) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-quantum-measurement-paradox-dissolved)
+   [Local file](papers/07-Quantum-Measurement-Paradox-Dissolved.md) · [Zenodo](https://zenodo.org/records/17891685) · [PhilPapers](https://philpapers.org/rec/ESCTQM-2) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-quantum-measurement-paradox-dissolved)
 
 8. **Relativity Without Paradox: Auditing Physics Language by the Universal Principle of Collapse**  
-   [Zenodo](https://zenodo.org/records/17892069) · [PhilPapers](https://philpapers.org/rec/ESCRWP) · [Substack](https://eloyescagedogutierrez.substack.com/p/relativity-without-paradox-auditing)
+   [Local file](papers/08-Relativity-Without-Paradox.md) · [Zenodo](https://zenodo.org/records/17892069) · [PhilPapers](https://philpapers.org/rec/ESCRWP) · [Substack](https://eloyescagedogutierrez.substack.com/p/relativity-without-paradox-auditing)
 
 9. **Entanglement Without Spookiness: Auditing Quantum Nonlocality by the Universal Principle of Collapse**  
-   [Zenodo](https://zenodo.org/records/17892213) · [PhilPapers](https://philpapers.org/rec/ESCEWS)
+   [Local file](papers/09-Entanglement-Without-Spookiness.md) · [Zenodo](https://zenodo.org/records/17892213) · [PhilPapers](https://philpapers.org/rec/ESCEWS)
 
 10. **The Cosmological Constant Dissolved: Auditing Dark Energy by the Universal Principle of Collapse (UPC)**  
-    [Zenodo](https://zenodo.org/records/17898978) · [PhilPapers](https://philpapers.org/rec/ESCTCC)
+    [Local file](papers/10-Cosmological-Constant-Dissolved.md) · [Zenodo](https://zenodo.org/records/17898978) · [PhilPapers](https://philpapers.org/rec/ESCTCC)
 
 11. **Collapse and Source: Consciousness and Language under the Universal Principle of Collapse**  
-    [Zenodo](https://zenodo.org/records/17909061) · [PhilPapers](https://philpapers.org/rec/ESCCAS)
+    [Local file](papers/11-Collapse-and-Source.md) · [Zenodo](https://zenodo.org/records/17909061) · [PhilPapers](https://philpapers.org/rec/ESCCAS)
 
 12. **The Universal Principle of Collapse: A Diagnostic Audit of Meaning in Artificial Intelligence**  
-    [Zenodo](https://zenodo.org/records/17929709) · [PhilPapers](https://philpapers.org/rec/ESCTUP-3)
+    [Local file](papers/12-Audit-of-Meaning-in-AI.md) · [Zenodo](https://zenodo.org/records/17929709) · [PhilPapers](https://philpapers.org/rec/ESCTUP-3)
 
 ---
 
