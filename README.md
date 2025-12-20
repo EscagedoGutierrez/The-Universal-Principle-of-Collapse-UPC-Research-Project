@@ -53,7 +53,7 @@ Here, \(J^{o}\) is the recognition operator, \(|\Psi\rangle\) a quantum state in
 ---
 
 ### Papers in this Repository
-This repository contains twelve research papers by Eloy Escagedo Gutierrez on the **Universal Principle of Collapse (UPC)**. Each paper explores a different facet of the Recognition Protocol and the dynamics of Metric Saturation, Collapse, and Reorganization.
+This repository contains thirteen research papers by Eloy Escagedo Gutierrez on the **Universal Principle of Collapse (UPC)**. Each paper explores a different facet of the Recognition Protocol and the dynamics of Metric Saturation, Collapse, and Reorganization.
 
 1. **Hidden Kinship Between Marx and Rand**  
    [Local file](papers/01-Hidden-Kinship-Marx-Rand.md) · [Zenodo](https://zenodo.org/records/17867525) · [PhilPapers](https://philpapers.org/rec/ESCHKB) · [Substack](https://eloyescagedogutierrez.substack.com/p/hidden-kinship-between-marx-and-rand) 
