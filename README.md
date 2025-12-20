@@ -92,7 +92,7 @@ This repository contains twelve research papers by Eloy Escagedo Gutierrez on th
     [Local file](papers/12-Audit-of-Meaning-in-AI.md) · [Zenodo](https://zenodo.org/records/17929709) · [PhilPapers](https://philpapers.org/rec/ESCTUP-3)
 
 13. **AI Collapse → Recognition → Stabilization The Universal Principle of Collapse (UPC) — An Empirical Stress Test**  
-    [Local file](papers/13-AI Collapse → Recognition → Stabilization The Universal Principle of Collapse (UPC) — An Empirical Stress Test.md) · [Zenodo](https://doi.org/10.5281/zenodo.17993454) · [PhilPapers](https://philpapers.org/rec/ESCACK) 
+    [Local file](papers/13-AI%20Collapse%20Recognition%20Stabilization%20UPC%20Empirical%20Stress%20Test.md) · [Zenodo](https://doi.org/10.5281/zenodo.17993454) · [PhilPapers](https://philpapers.org/rec/ESCACK) 
       
 ---
 
