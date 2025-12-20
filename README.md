@@ -56,10 +56,10 @@ Here, \(J^{o}\) is the recognition operator, \(|\Psi\rangle\) a quantum state in
 This repository contains twelve research papers by Eloy Escagedo Gutierrez on the **Universal Principle of Collapse (UPC)**. Each paper explores a different facet of the Recognition Protocol and the dynamics of Metric Saturation, Collapse, and Reorganization.
 
 1. **Hidden Kinship Between Marx and Rand**  
-   [Local file](papers/01-Hidden-Kinship-Marx-Rand.md) · [Zenodo](https://zenodo.org/records/17867525) · [PhilPapers](https://philpapers.org/rec/ESCHKB) · [Substack](https://eloyescagedogutierrez.substack.com/p/hidden-kinship-between-marx-and-rand)
+   [Local file](papers/01-Hidden-Kinship-Marx-Rand.md) · [Zenodo](https://zenodo.org/records/17867525) · [PhilPapers](https://philpapers.org/rec/ESCHKB) · [Substack](https://eloyescagedogutierrez.substack.com/p/hidden-kinship-between-marx-and-rand) 
 
 2. **The Century Shaken: A Note on the Collapse of Marx, Rand, and Materialism**  
-   [Local file](papers/02-The-Century-Shaken.md) · [Zenodo](https://zenodo.org/records/17889470) · [PhilPapers](https://philpapers.org/rec/ESCTCS-2) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-century-shaken-a-note-on-the)
+   [Local file](papers/02-The-Century-Shaken.md) · [Zenodo](https://zenodo.org/records/17889470) · [PhilPapers](https://philpapers.org/rec/ESCTCS-2) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-century-shaken-a-note-on-the) 
 
 3. **Default at Inception: The Logical Collapse of Marx, Rand, and Materialism**  
    [Local file](papers/03-Default at Inception.md) · [Zenodo](https://zenodo.org/records/17889814) · [PhilPapers](https://philpapers.org/rec/ESCDAI-3) · [Substack](https://eloyescagedogutierrez.substack.com/p/default-at-inception-the-logical)
