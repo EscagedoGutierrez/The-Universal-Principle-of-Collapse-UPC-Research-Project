@@ -71,7 +71,7 @@ This repository contains twelve research papers by Eloy Escagedo Gutierrez on th
    [Local file](papers/05-The Quantum Measurement Problem Solved by the Universal Principle of Collapse (UPC).md) · [Zenodo](https://zenodo.org/records/17890168) · [PhilPapers](https://philpapers.org/rec/ESCTQM) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-quantum-measurement-problem-solved)
 
 6. **The Universal Principle of Collapse: Stress‑Testing Quantum Interpretations**  
-   [Local file](papers/06-Stress-Testing-Quantum-Interpretations.md) · [Zenodo](https://zenodo.org/records/17890405) · [PhilPapers](https://philpapers.org/rec/ESCTUP) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-universal-principle-of-collapse)
+   [Local file](papers/06-The Universal Principle of Collapse Stress‑Testing Quantum Interpretations.md) · [Zenodo](https://zenodo.org/records/17890405) · [PhilPapers](https://philpapers.org/rec/ESCTUP) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-universal-principle-of-collapse)
 
 7. **The Quantum Measurement Paradox Dissolved: An Equation‑by‑Equation Audit under the UPC Axiom**  
    [Local file](papers/07-The Quantum Measurement Paradox Dissolved An Equation‑by‑Equation Audit under the UPC Axiom.md) · [Zenodo](https://zenodo.org/records/17891685) · [PhilPapers](https://philpapers.org/rec/ESCTQM-2) · [Substack](https://eloyescagedogutierrez.substack.com/p/the-quantum-measurement-paradox-dissolved)
