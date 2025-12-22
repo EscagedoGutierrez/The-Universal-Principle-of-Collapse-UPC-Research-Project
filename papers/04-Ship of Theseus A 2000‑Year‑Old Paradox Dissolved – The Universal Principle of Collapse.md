@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.17889918
 - [Abstract](#abstract)
 - [Preface](#Preface)
 - [The Ship’s History](#The-Ship’s-History)
-- [Interlude: The Voyage](#Interlude:-The-Voyage)
+- [Interlude: The Voyage](#Interlude-The-Voyage)
 - [Independence from Tradition](#Independence-from-Tradition)
 - [Collapse](#Collapse)
 - [Clarifier](#Clarifier)
@@ -190,3 +190,4 @@ The Creator
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
