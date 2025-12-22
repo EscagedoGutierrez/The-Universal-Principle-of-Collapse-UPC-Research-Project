@@ -10,21 +10,21 @@ doi: 10.5281/zenodo.17890405
 
 # Table of Contents
 - [Abstract](#abstract)
-- [Definition of UPC](#Definition of UPC)
-- [The UPC Axiom](#The UPC Axiom)
+- [Definition of UPC](#Definition-of-UPC)
+- [The UPC Axiom](#The-UPC-Axiom)
 - [Transparency](#Transparency)
-- [The Cat in the box or Rabbit under the hat?](#The Cat in the box or Rabbit under the hat?)
-- [The Double‑Slit Experiment and UPC](#The Double‑Slit Experiment and UPC)
-- [Concealment of the Observer](#Concealment of the Observer)
-- [Stress Tests and Demonstrations ](#Stress Tests and Demonstrations)
-- [Formal Demonstrations](#Formal Demonstrations)
-- [Collapse Beyond Physics: Recognition as Lived Reality](#Collapse Beyond Physics: Recognition as Lived Reality)
-- [Language as Collapse](#Language as Collapse)
-- [Verdict in Reality](#Verdict in Reality) 
-- [Pattern Revealed by Two Tests](#Pattern Revealed by Two Tests) 
-- [UPC vs. Other Quantum Equations](#UPC vs. Other Quantum Equations) 
-- [Implication for Quantum Foundations](#Implication for Quantum Foundations)
-- [Pulling back the curtain](#Pulling back the curtain)
+- [The Cat in the box or Rabbit under the hat?](#The-Cat-in-the-box-or-Rabbit-under-the-hat?)
+- [The Double‑Slit Experiment and UPC](#The-Double‑Slit-Experiment-and-UPC)
+- [Concealment of the Observer](#Concealment-of-the-Observer)
+- [Stress Tests and Demonstrations ](#Stress-Tests-and-Demonstrations)
+- [Formal Demonstrations](#Formal-Demonstrations)
+- [Collapse Beyond Physics: Recognition as Lived Reality](#Collapse-Beyond-Physics-Recognition-as-Lived-Reality)
+- [Language as Collapse](#Language-as-Collapse)
+- [Verdict in Reality](#Verdict-in-Reality) 
+- [Pattern Revealed by Two Tests](#Pattern-Revealed-by-Two-Tests) 
+- [UPC vs. Other Quantum Equations](#UPC-vs.-Other-Quantum-Equations) 
+- [Implication for Quantum Foundations](#Implication-for-Quantum-Foundations)
+- [Pulling back the curtain](#Pulling-back-the-curtain)
 - [Conclusion](#Conclusion)
 
 ---
@@ -666,3 +666,4 @@ applications.
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
