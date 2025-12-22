@@ -10,22 +10,22 @@ doi: 10.5281/zenodo.17892213
 
 # Table of Contents
 - [Abstract](#abstract)
-- [UPC Definition](#UPC Definition)
-- [UPC Axiom](#UPC Axiom)
-- [Operator Note (Quantum Experiment Domain)](#Operator Note (Quantum Experiment Domain))
-- [Diagnostic Function](#Diagnostic Function)
+- [UPC Definition](#UPC-Definition)
+- [UPC Axiom](#UPC-Axiom)
+- [Operator Note (Quantum Experiment Domain)](#Operator-Note-Quantum-Experiment-Domain) 
+- [Diagnostic Function](#Diagnostic-Function)
 - [Introduction](#Introduction)
-- [UPC Theorem: Paradox Dissolution at Inception](#UPC Theorem: Paradox Dissolution at Inception)
-- [UPC Theorem: Quantum–Language Collapse (Experimental Form)] (#UPC Theorem: Quantum–Language Collapse(Experimental Form) 
-- [UPC Audit of Entanglement Experiments: Mechanics Versus Language](#UPC Audit of Entanglement Experiments: Mechanics Versus Language)
-- [Entanglement Without Spookiness](#Entanglement Without Spookiness)
-- [Illustrative Example: Pulling Back the Curtain on Entanglement](#Illustrative Example: Pulling Back the Curtain on Entanglement)
-- [Auditing Quantum Nonlocality](#Auditing Quantum Nonlocality) 
-- [From Audit to Philosophy: Dissolving Paradox at Inception](#From Audit to Philosophy: Dissolving Paradox at Inception) 
-- [Philosophical Implications: Language as the First Principle of Paradox](#Philosophical Implications: Language as the First Principle of Paradox)
-- [UPC as a Philosophical Method: Auditing Metaphor Before Metaphysics](#UPC as a Philosophical Method: Auditing Metaphor Before Metaphysics)
-- [Language as Coordinate Map: Precision and Generational Consequences](#Language as Coordinate Map: Precision and Generational Consequences)
-- [Conclusion: Dissolving Paradox at Inception](#Conclusion: Dissolving Paradox at Inception)
+- [UPC Theorem: Paradox Dissolution at Inception](#UPC-Theorem-Paradox-Dissolution-at-Inception)
+- [UPC Theorem: Quantum–Language Collapse Experimental Form](#upc-theorem-quantumlanguage-collapse-experimental-form)
+- [UPC Audit of Entanglement Experiments: Mechanics Versus Language](#UPC-Audit-of-Entanglement-Experiments-Mechanics-Versus-Language)
+- [Entanglement Without Spookiness](#Entanglement-Without-Spookiness)
+- [Illustrative Example: Pulling Back the Curtain on Entanglement](#Illustrative-Example-Pulling-Back-the-Curtain-on-Entanglement)
+- [Auditing Quantum Nonlocality](#Auditing-Quantum-Nonlocality) 
+- [From Audit to Philosophy: Dissolving Paradox at Inception](#From-Audit-to-Philosophy-Dissolving-Paradox-at-Inception) 
+- [Philosophical Implications: Language as the First Principle of Paradox](#Philosophical-Implications-Language-as-the-First-Principle-of-Paradox)
+- [UPC as a Philosophical Method: Auditing Metaphor Before Metaphysics](#UPC-as-a-Philosophical-Method-Auditing-Metaphor-Before-Metaphysics)
+- [Language as Coordinate Map: Precision and Generational Consequences](#Language-as-Coordinate-Map-Precision-and-Generational-Consequences)
+- [Conclusion: Dissolving Paradox at Inception](#Conclusion-Dissolving-Paradox-at-Inception)
 - [References](#References)
 
 ---
@@ -565,3 +565,4 @@ https://en.wikipedia.org/wiki/Quantum_nonlocality
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
