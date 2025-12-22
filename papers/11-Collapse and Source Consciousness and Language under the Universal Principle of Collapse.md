@@ -10,19 +10,19 @@ doi: 10.5281/zenodo.17909061
 
 # Table of Contents
 - [Abstract](#Abstract)
-- [Definition of UPC](#Definition of UPC)
-- [UPC Axiom](#UPC Axiom)
-- [Theorem (UPC Consciousness–Language Collapse Theorem, Embodied Form)](#Theorem (UPC Consciousness–Language Collapse Theorem, Embodied Form)
-- [Explanatory Paragraph](#Explanatory Paragraph)
-- [Consciousness Is Irreducible](#Consciousness Is Irreducible)
-- [Audit of Current Understanding](#Audit of Current Understanding)
-- [Evidence from Current Literature](#Evidence from Current Literature)
-- [Systemic Dissolve: Scope of Evidence](#Systemic Dissolve: Scope of Evidence)
-- [Stress Test Against Objections](#Stress Test Against Objections)
-- [Dialogue by the Fountain](#Dialogue by the Fountain) 
+- [Definition of UPC](#Definition-of-UPC)
+- [UPC Axiom](#UPC-Axiom)
+- [Theorem (UPC Consciousness–Language Collapse Theorem, Embodied Form)](#Theorem-UPC-Consciousness–Language-Collapse-Theorem-Embodied-Form)
+- [Explanatory Paragraph](#Explanatory-Paragraph)
+- [Consciousness Is Irreducible](#Consciousness-Is-Irreducible)
+- [Audit of Current Understanding](#Audit-of-Current-Understanding)
+- [Evidence from Current Literature](#Evidence-from-Current-Literature)
+- [Systemic Dissolve: Scope of Evidence](#Systemic-Dissolve-Scope-of-Evidence)
+- [Stress Test Against Objections](#Stress-Test-Against-Objections)
+- [Dialogue by the Fountain](#Dialogue-by-the-Fountain) 
 - [Inescapability](#Inescapability)  
 - [Implications](#Implications)
-- [Contribution Statement](#Contribution Statement)
+- [Contribution Statement](#Contribution-Statement)
 - [Conclusion](#Conclusion)
 - [References](#References)
 
@@ -320,3 +320,4 @@ https://doi.org/10.1007/s11097-020-09684-0
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
