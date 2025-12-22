@@ -16,7 +16,7 @@ doi: 10.5281/zenodo.17889814
 - [Hidden Kinship Between Marx and Rand](#Hidden-Kinship-Between-Marx-and-Rand)
 - [The Century Shaken](#The-Century-Shaken)
 - [Objection–Counterargument Exchange](#Objection–Counterargument-Exchange)
-- [After the Fact: Logical Default](#After-the-Fact:-Logical-Default)
+- [After the Fact: Logical Default](#After-the-Fact-Logical-Default)
 - [Materialism of the Gaps](#Materialism-of-the-Gaps)
 - [The Collapse of the Pillars](#The-Collapse-of-the-Pillars)
 - [What Rejection Would Require](#What-Rejection-Would-Require)
@@ -198,3 +198,4 @@ We exist, and that is meaning. And meaning is irreducible.
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
