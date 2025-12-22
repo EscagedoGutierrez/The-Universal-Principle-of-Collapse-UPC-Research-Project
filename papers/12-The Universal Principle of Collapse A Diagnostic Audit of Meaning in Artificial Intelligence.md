@@ -12,18 +12,18 @@ doi: 10.5281/zenodo.17929709
 - [Abstract](#Abstract)
 - [Introduction](#Introduction)
 - [Background: UPC Across Domains](#Background-UPC-Across-Domains) 
-- [The Misconception of AI Consciousness](#The Misconception of AI Consciousness)
-- [Parallels With Quantum Paradoxes](#Parallels With Quantum Paradoxes)
-- [How AI Systems Operate](#How AI Systems Operate)
-- [User Projection and the Illusion of Understanding](#User Projection and the Illusion of Understanding)
-- [The Observer as the Only Source of Recognition](#The Observer as the Only Source of Recognition)
-- [Definition of UPC](#Definition of UPC)
-- [UPC Axiom](#UPC Axiom) 
-- [Theorem (UPC Collapse Theorem for Artificial Systems)](#Theorem (UPC Collapse Theorem for Artificial Systems)  
-- [Formal UPC Component Analysis](#Formal UPC Component Analysis)
-- [Demonstration: Collapse, Recognition, and the Illusion of AI Understanding](#Demonstration: Collapse, Recognition, and the Illusion of AI Understanding)  
+- [The Misconception of AI Consciousness](#The-Misconception-of-AI-Consciousness)
+- [Parallels With Quantum Paradoxes](#Parallels-With-Quantum-Paradoxes)
+- [How AI Systems Operate](#How-AI-Systems-Operate)
+- [User Projection and the Illusion of Understanding](#User-Projection-and-the-Illusion-of-Understanding)
+- [The Observer as the Only Source of Recognition](#The-Observer-as-the-Only-Source-of-Recognition)
+- [Definition of UPC](#Definition-of-UPC)
+- [UPC Axiom](#UPC-Axiom) 
+- [Theorem (UPC Collapse Theorem for Artificial Systems)](#Theorem-UPC-Collapse-Theorem-for-Artificial-Systems)  
+- [Formal UPC Component Analysis](#Formal-UPC-Component-Analysis)
+- [Demonstration: Collapse, Recognition, and the Illusion of AI Understanding](#Demonstration-Collapse-Recognition-and-the-Illusion-of-AI-Understanding)  
 - [Conclusion](#Conclusion)
-- [Future Work](#Future Work)
+- [Future Work](#Future-Work)
 - [References](#References)
 
 ---
@@ -226,6 +226,7 @@ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ..
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 
 
 
