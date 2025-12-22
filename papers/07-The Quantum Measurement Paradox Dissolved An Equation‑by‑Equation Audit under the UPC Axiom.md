@@ -10,14 +10,14 @@ doi: "10.5281/zenodo.17891685"
 
 
 # Table of Contents
-- [Reader’s Orientation Note](#Reader’s Orientation Note)
+- [Reader’s Orientation Note](#readers-orientation-note)
 - [Abstract](#abstract)
 - [Introduction](#Introduction)
-- [Methods / Framework](#Methods / Framework)
-- [Results / Audit](#Results / Audit)
+- [Methods / Framework](#methods--framework)
+- [Results / Audit](#Results--Audit)
 - [Discussion](#Discussion)
-- [Limits and Next Steps](#Limits and Next Steps)
-- [No Escape Routes](#No Escape Routes)
+- [Limits and Next Steps](#Limits-and-Next-Steps)
+- [No Escape Routes](#No-Escape-Routes)
 - [Conclusion](#Conclusion)
 - [References](#References)
 
@@ -298,4 +298,5 @@ Reviews of Modern Physics, 75(3), 715–775.
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 
