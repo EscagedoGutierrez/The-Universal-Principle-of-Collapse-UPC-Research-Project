@@ -10,20 +10,17 @@ doi: 10.5281/zenodo.17890168
 
 # Table of Contents
 - [Abstract](#abstract)
-- [Preface](#Preface)
-- [The Ship’s History](#The-Ship’s-History)
-- [Interlude: The Voyage](#Interlude:-The-Voyage)
-- [Independence from Tradition](#Independence-from-Tradition)
-- [Collapse](#Collapse)
-- [Clarifier](#Clarifier)
-- [Broader Paradox Dissolutions](#Broader-Paradox-Dissolutions)
-- [Objects and Things, Recursively](#Objects-and-Things,-Recursively)
-- [Life](#Life)
-- [Consciousness](#Consciousness)
-- [Communication Error as Collapse](#Communication-Error-as-Collapse) 
-- [Potential Objections](#Potential-Objections) 
-- [Meta‑Objections](#Meta‑Objections) 
-- [Conclusion](#Conclusion)
+- [Transparency](#Transparency)
+- [The Universal Principle of Collapse](#-The-Universal-Principle-of-Collapse)
+- [Testing UPC Against the Quantum Measurement Problem](#Testing-UPC-Against-the-Quantum-Measurement-Problem)
+- [Section: Language, Media, and the Dissolution of the Paradox](#Section-Language-Media-and-the-Dissolution-of-the-Paradox)
+- [The Double‑Slit Experiment and UPC](#The-Double‑Slit-Experiment-and-UPC)
+- [Applications Beyond Quantum Mechanics](#Applications-Beyond-Quantum-Mechanics)
+- [Consciousness and UPC](#Consciousness-and-UPC)
+- [UPC audit results across interpretations and cases](#UPC-audit-results-across-interpretations-and-cases)
+- [AI Language and Logic Stress Test](#AI-Language-and-Logic-Stress-Test)
+- [Conclusions](#Conclusions) 
+- [Further Reading](#Further-Reading) 
 
 ---
 
@@ -70,8 +67,7 @@ This same straightforwardness can be seen in the famous double‑slit experiment
 
 ---
 
-# Section: Language, Media, and the Dissolution of the 
-Paradox 
+# Section: Language, Media, and the Dissolution of the Paradox 
 Much of the mystery comes from sleight of hand in language and media. Phrases like “particles are waves” or “exist in all states at once” collapse possibility into reality, while documentaries dramatize this collapse with animations of particles splitting or existing in parallel worlds. These are not the phenomena themselves but interpretations staged as cinematic “reality.” The effect is that audiences mistake representation for nature, believing in contradictions that do not exist. UPC restores coherence by showing that reality is only meaningful in observation, while the wavefunction remains a coordinate of possibility.
  
 Confusion deepens because wording and depictions collapse possibility into reality. Physicists say particles are “both waves and particles,” and TV shows dramatize this with visual effects. These are not the phenomena but interpretations turned into spectacle. The result is that people think nature is contradictory, when the contradiction lies in language and representation. UPC restores coherence: reality is only meaningful in observation, the wavefunction is a coordinate of possibility, and the interference pattern is the shadow of many definite landings. 
@@ -241,3 +237,4 @@ of Collapse https://philpapers.org/rec/ESCSOT-3
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
