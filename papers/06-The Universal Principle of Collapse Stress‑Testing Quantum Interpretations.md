@@ -22,7 +22,7 @@ doi: 10.5281/zenodo.17890405
 - [Language as Collapse](#Language-as-Collapse)
 - [Verdict in Reality](#Verdict-in-Reality) 
 - [Pattern Revealed by Two Tests](#Pattern-Revealed-by-Two-Tests) 
-- [UPC vs. Other Quantum Equations](#UPC-vs.-Other-Quantum-Equations) 
+- [UPC vs. Other Quantum Equations](#UPC-vs-Other-Quantum-Equations) 
 - [Implication for Quantum Foundations](#Implication-for-Quantum-Foundations)
 - [Pulling back the curtain](#Pulling-back-the-curtain)
 - [Conclusion](#Conclusion)
@@ -666,4 +666,5 @@ applications.
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 
