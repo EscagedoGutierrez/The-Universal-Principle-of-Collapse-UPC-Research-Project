@@ -12,7 +12,6 @@ doi: 10.5281/zenodo.17892213
 - [Abstract](#abstract)
 - [UPC Definition](#UPC-Definition)
 - [UPC Axiom](#UPC-Axiom)
-- [Operator Note (Quantum Experiment Domain)](#Operator-Note-Quantum-Experiment-Domain) 
 - [Diagnostic Function](#Diagnostic-Function)
 - [Introduction](#Introduction)
 - [UPC Theorem: Paradox Dissolution at Inception](#UPC-Theorem-Paradox-Dissolution-at-Inception)
@@ -560,5 +559,6 @@ https://en.wikipedia.org/wiki/Quantum_nonlocality
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 
 
