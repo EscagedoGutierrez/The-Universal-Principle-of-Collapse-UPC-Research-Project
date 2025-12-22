@@ -11,12 +11,12 @@ doi: 10.5281/zenodo.17892069
 # Table of Contents
 - [Abstract](#abstract)
 - [Introduction](#Introduction)
-- [Section 0 — Explainers for Public Clarity](#Section 0 — Explainers for Public Clarity)
-- [Section 1 — Foundations](#Section 1 — Foundations)
-- [Section 2 — Derivations (Expanded) ](#Section 2 — Derivations (Expanded))
-- [Section 3 — Language Audit Catalog](#Section 3 — Language Audit Catalog)
-- [Section 4 — Consequences](#Section 4 — Consequences)
-- [Section 5 — Conclusion](#Section 5 — Conclusion)
+- [Section 0 — Explainers for Public Clarity](#Section-0-Explainers-for-Public-Clarity)
+- [Section 1 — Foundations](#Section-1-Foundations)
+- [Section 2 — Derivations (Expanded) ](#Section-2-Derivations (Expanded))
+- [Section 3 — Language Audit Catalog](#Section-3-Language-Audit-Catalog)
+- [Section 4 — Consequences](#Section-4-Consequences)
+- [Section 5 — Conclusion](#Section-5-Conclusion)
 - [References](#References)
 
 ---
@@ -450,3 +450,4 @@ Thompson, E. (2024). Time dilation in science fiction: From Doctor Who to Tenet.
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
