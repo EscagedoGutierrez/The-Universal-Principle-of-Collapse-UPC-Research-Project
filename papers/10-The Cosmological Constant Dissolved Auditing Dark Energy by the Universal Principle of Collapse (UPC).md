@@ -12,11 +12,11 @@ doi: 10.5281/zenodo.17898978
 - [Abstract](#abstract)
 - [Introduction](#Introduction)
 - [Background](#Background)
-- [Clarifying the Role of Math and Language in the Paradox](#Clarifying the Role of Math and Language in the Paradox)
-- [The UPC Framework](#The UPC Framework)
-- [UPC Audit](#UPC Audit)
+- [Clarifying the Role of Math and Language in the Paradox](#Clarifying-the-Role-of-Math-and-Language-in-the-Paradox)
+- [The UPC Framework](#The-UPC-Framework)
+- [UPC Audit](#UPC-Audit)
 - [Resolution](#Resolution)
-- [Philosophical Framing](#Philosophical Framing)
+- [Philosophical Framing](#Philosophical-Framing)
 - [Conclusion](#Conclusion)
 - [References](#References)
 
@@ -240,3 +240,4 @@ Reviews of Modern Physics, 75(2), 559–606.
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
