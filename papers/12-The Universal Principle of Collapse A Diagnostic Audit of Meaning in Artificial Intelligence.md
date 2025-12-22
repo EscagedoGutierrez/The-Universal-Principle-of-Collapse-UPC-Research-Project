@@ -11,7 +11,7 @@ doi: 10.5281/zenodo.17929709
 # Table of Contents
 - [Abstract](#Abstract)
 - [Introduction](#Introduction)
-- [Background: UPC Across Domains](#Background:-UPC-Across-Domains) 
+- [Background: UPC Across Domains](#Background-UPC-Across-Domains) 
 - [The Misconception of AI Consciousness](#The Misconception of AI Consciousness)
 - [Parallels With Quantum Paradoxes](#Parallels With Quantum Paradoxes)
 - [How AI Systems Operate](#How AI Systems Operate)
@@ -226,6 +226,7 @@ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ..
 ---
 
 **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 
 
 
