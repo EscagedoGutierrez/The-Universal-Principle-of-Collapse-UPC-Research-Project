@@ -14,6 +14,24 @@ The UPC demonstrates that any system reaching **Metric Saturation**—where the 
 
 ---
 
+## Project Overview  
+The Universal Principle of Collapse (UPC) is a unified framework for understanding how meaning forms in quantum‑classical systems, AI‑human interactions, and scientific interpretation.  
+It introduces a precise, observer‑anchored structure that separates **raw data**, **symbols**, **language**, and **meaning**, ensuring that interpretation remains explicit, traceable, and scientifically reproducible.
+
+UPC is important because modern systems collapse meaning implicitly and uncontrollably.  
+Quantum measurements, AI outputs, and human interpretations all suffer from hidden assumptions, narrative drift, and map–terrain confusion.  
+UPC solves this by enforcing semantic boundaries and providing a controlled, auditable meaning‑collapse chain.
+
+The impact of UPC spans physics, AI safety, epistemology, and computational design.  
+It enables semantic auditing, reproducible interpretation, multi‑observer comparison, and the stabilization of meaning across systems.  
+Through the Engineering Layer — including the Semantic Integrity Layer, CLI Validator, Logging Module, Visualization Tool, and Python SDK — UPC becomes an operational framework that researchers and developers can run, test, and integrate into real pipelines.
+
+This work is protected through a dual‑license model:  
+**MIT License** for all software components and **CC‑BY 4.0** for all conceptual materials.  
+This ensures open scientific collaboration while preserving authorship, attribution, and the integrity of the framework.
+
+---
+
 ### Primary Institutional Anchors (Triangulated Nodes)
 | Authority | Node Link |
 | :--- | :--- |
