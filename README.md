@@ -145,3 +145,11 @@ The UPC can be expressed formally as:
 - **Software components (code, scripts, tooling):**  
   Licensed under the [MIT License](https://opensource.org/licenses/MIT).  
   Reuse is permitted with attribution by preserving the copyright notice and license text in any distribution.
+  
+---
+
+### Engineering Layer
+The operational implementation of the Recognition Protocol and the Meaning‑Collapse Chain.
+
+- **[UPC Semantic Integrity Layer](Engineering/UPC-Semantic-Integrity-Layer.md)**  
+  A software‑ready framework that formalizes interpretation boundaries in quantum‑classical and AI‑human systems.
