@@ -148,8 +148,21 @@ The UPC can be expressed formally as:
   
 ---
 
-### Engineering Layer
-The operational implementation of the Recognition Protocol and the Meaning‑Collapse Chain.
+### Engineering Layer  
+The operational implementation of the Recognition Protocol and the Meaning‑Collapse Chain.  
+This section contains the software‑oriented components of the UPC framework, including filters, validators, logging tools, visualization utilities, and the developer SDK.
 
 - **[UPC Semantic Integrity Layer](Engineering/UPC-Semantic-Integrity-Layer.md)**  
-  A software‑ready framework that formalizes interpretation boundaries in quantum‑classical and AI‑human systems.
+  Defines the core semantic‑safety architecture that separates data, symbols, language, and meaning, ensuring controlled meaning‑collapse anchored in the observer.
+
+- **[UPC CLI Validator](Engineering/UPC-CLI-Validator.md)**  
+  A command‑line tool that audits raw data, symbolic output, and meaning‑collapse events, producing a structured semantic trace.
+
+- **[UPC Logging Module](Engineering/UPC-Logging-Module.md)**  
+  A semantic trace recorder that writes each meaning‑collapse event to a machine‑readable log, enabling reproducibility and semantic observability.
+
+- **[UPC Visualization Tool](Engineering/UPC-Visualization-Tool.md)**  
+  A graphical timeline renderer that visualizes the meaning‑collapse chain across events, showing transitions from raw data to symbols to meaning.
+
+- **[UPC Python SDK](Engineering/UPC-SDK-Python.md)**  
+  A developer‑ready library that exposes the UPC filter, logger, CLI, and visualization utilities as importable Python modules for integration into quantum, AI, and scientific workflows.
