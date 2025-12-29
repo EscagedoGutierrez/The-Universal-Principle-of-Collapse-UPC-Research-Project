@@ -152,20 +152,6 @@ The UPC can be expressed formally as:
 
 ---
 
-### License
-
-- **Written content (papers, README, audits, manuscripts):**  
-  This work by Eloy Escagedo Gutierrez is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-
-  **Example attribution:**  
-  “Paper by Eloy Escagedo Gutierrez, licensed under CC BY 4.0. Source: [GitHub link].”
-
-- **Software components (code, scripts, tooling):**  
-  Licensed under the [MIT License](https://opensource.org/licenses/MIT).  
-  Reuse is permitted with attribution by preserving the copyright notice and license text in any distribution.
-  
----
-
 ### Engineering Layer  
 The operational implementation of the Recognition Protocol and the Meaning‑Collapse Chain.  
 This section contains the software‑oriented components of the UPC framework, including filters, validators, logging tools, visualization utilities, and the developer SDK.
@@ -184,3 +170,19 @@ This section contains the software‑oriented components of the UPC framework, i
 
 - **[UPC Python SDK](Engineering/UPC-SDK-Python.md)**  
   A developer‑ready library that exposes the UPC filter, logger, CLI, and visualization utilities as importable Python modules for integration into quantum, AI, and scientific workflows.
+
+---
+
+### License
+
+- **Written content (papers, README, audits, manuscripts):**  
+  This work by Eloy Escagedo Gutierrez is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+
+  **Example attribution:**  
+  “Paper by Eloy Escagedo Gutierrez, licensed under CC BY 4.0. Source: [GitHub link].”
+
+- **Software components (code, scripts, tooling):**  
+  Licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+  Reuse is permitted with attribution by preserving the copyright notice and license text in any distribution.
+  
+---
