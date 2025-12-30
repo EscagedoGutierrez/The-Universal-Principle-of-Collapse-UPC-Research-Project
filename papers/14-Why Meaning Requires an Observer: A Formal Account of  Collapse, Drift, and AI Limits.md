@@ -743,3 +743,16 @@ The citations included in this paper are provided to support readers who wish to
 - Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). *Language models are unsupervised multitask learners*. OpenAI.
 
 - Wittgenstein, L. (1953). *Philosophical investigations* (G. E. M. Anscombe, Trans.). Blackwell.
+
+- ### Institutional Verification & Primary Anchors
+
+| Platform | Link / Reference |
+| :--- | :--- |
+| **Zenodo (Archive)** | [Record: 18012416](https://doi.org/10.5281/zenodo.18012416) |
+| **PhilPapers (Index)** | [Entry: ESCWMR](https://philpapers.org/rec/ESCWMR) | 
+
+**Precursor Audit:** [13-AI Collapse → Recognition → Stabilization The Universal Principle of Collapse (UPC) — An Empirical Stress Test.md]
+
+---
+
+**License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
