@@ -130,7 +130,7 @@ This repository contains thirteen research papers by Eloy Escagedo Gutierrez on 
  15. **The Unified Theory of Music and Consciousness: The Universal Principle of Collapse**  
 [Local file](papers/15-The%20Unified%20Theory%20of%20Music%20and%20Consciousness%3A%20The%20Universal%20Principle%20of%20Collapse.md) · [Zenodo](https://doi.org/10.5281/zenodo.18043567) · [PhilPapers](https://philpapers.org/rec/ESCTUT) 
 
-### 16. A Structural Repair of Quantum Measurement: Formalizing the Observer with UPC Operators  
+ 16. **A Structural Repair of Quantum Measurement: Formalizing the Observer with UPC Operators**  
 [Local file](papers/16-A%20Structural%20Repair%20of%20Quantum%20Measurement%3A%20Formalizing%20the%20Observer%20with%20UPC%20Operators.md) · [Zenodo](https://doi.org/10.5281/zenodo.18062965) · [PhilPapers](https://philpapers.org/rec/ESCASR)
       
 ---
