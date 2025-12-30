@@ -132,7 +132,12 @@ This repository contains thirteen research papers by Eloy Escagedo Gutierrez on 
 
  16. **A Structural Repair of Quantum Measurement: Formalizing the Observer with UPC Operators**  
 [Local file](papers/16-A%20Structural%20Repair%20of%20Quantum%20Measurement%3A%20Formalizing%20%20the%20Observer%20with%20UPC%20Operators.md) · [Zenodo](https://doi.org/10.5281/zenodo.18062965) · [PhilPapers](https://philpapers.org/rec/ESCASR)
-      
+
+ 17. **Structural Collapse Across Industries: The Universal Principle of Collapse as Corrective Framework**  
+[Local file](papers/17-Structural%20Collapse%20Across%20Industries%3A%20The%20Universal%20Principle%20of%20Collapse%20as%20Corrective%20Framework.md) · 
+[Zenodo](https://doi.org/10.5281/zenodo.18072716) · [PhilPapers](https://philpapers.org/rec/ESCSCA)
+
+     
 ---
 
 ### Concept Index
