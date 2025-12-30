@@ -124,8 +124,8 @@ This repository contains thirteen research papers by Eloy Escagedo Gutierrez on 
  · [Zenodo](https://doi.org/10.5281/zenodo.17993454) · [PhilPapers](https://philpapers.org/rec/ESCACK) 
 
  14. **Why Meaning Requires an Observer: A Formal Account of Collapse, Drift, and AI Limits**  
-    [Local file](papers/14-Why%20Meaning%20Requires%20an%20Observer%20A%20Formal%20Account%20of%20Collapse%2C%20Drift%2C%20and%20AI%20Limits.md)
- · [Zenodo](https://doi.org/10.5281/zenodo.18012416) · [PhilPapers](https://philpapers.org/rec/ESCWMR) 
+    [Local file](papers/14-Why%20Meaning%20Requires%20an%20Observer%3A%20A%20Formal%20Account%20of%20Collapse%2C%20Drift%2C%20and%20AI%20Limits.md)
+ · [Zenodo](https://doi.org/10.5281/zenodo.18012416) · [PhilPapers](https://philpapers.org/rec/ESCWMR)  
       
 ---
 
