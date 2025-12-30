@@ -125,7 +125,11 @@ This repository contains thirteen research papers by Eloy Escagedo Gutierrez on 
 
  14. **Why Meaning Requires an Observer: A Formal Account of Collapse, Drift, and AI Limits**  
     [Local file](papers/14-Why%20Meaning%20Requires%20an%20Observer%3A%20A%20Formal%20Account%20of%20%20Collapse%2C%20Drift%2C%20and%20AI%20Limits.md) 
- · [Zenodo](https://doi.org/10.5281/zenodo.18012416) · [PhilPapers](https://philpapers.org/rec/ESCWMR) 
+ · [Zenodo](https://doi.org/10.5281/zenodo.18012416) · [PhilPapers](https://philpapers.org/rec/ESCWMR)
+
+ 15. **The Unified Theory of Music and Consciousness: The Universal Principle of Collapse**  
+[Local file](papers/15-The%20Unified%20Theory%20of%20Music%20and%20Consciousness%3A%20The%20Universal%20Principle%20of%20Collapse.md)  
+[Zenodo](https://doi.org/10.5281/zenodo.18043567) • [PhilPapers](https://philpapers.org/rec/ESCTUT) 
       
 ---
 
