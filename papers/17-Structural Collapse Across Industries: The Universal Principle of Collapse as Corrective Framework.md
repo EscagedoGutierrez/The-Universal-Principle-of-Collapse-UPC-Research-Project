@@ -8,6 +8,33 @@ doi: https://doi.org/10.5281/zenodo.18072716
 
 ---
 
+## Table of Contents
+
+1. **Abstract**
+2. **How to Read This Paper**
+3. **A Necessary Warning**
+4. **Introduction**
+5. **1. Artificial Intelligence**
+6. **2. Robotics and Autonomous Systems**
+7. **3. Finance**
+8. **4. Law**
+9. **5. Applied Domains (Compressed Synthesis)**
+10. **Domain Summary Table**
+11. **10. Convergence: The Shared Root Cause**
+12. **11. Core Corrective Insight**
+13. **Illustrative Analogy: The Hall of Mirrors and the Actor**
+14. **12. The Formal Components of UPC**
+15. **12.5 Stabilizing AI Through Recognition Constraints**
+16. **Human First, Then Automation**
+17. **13. Methodology: Applying UPC Across Domains**
+18. **Worked Examples**
+19. **14. Limitations**
+20. **15. Conclusion: Returning to Reality**
+21. **Appendix: The Math of UPC (Clear, Simple, Human)**
+22. **References**
+
+---
+
 ## Abstract
 
 Modern systems across every major domain—AI, robotics, finance, law, governance, identity, UX, education, and complex infrastructures—are collapsing for the same structural reason: **they have drifted away from lived human meaning** (Escagedo Gutierrez, 2025a; Lakoff & Johnson, 1980). Automation can simulate patterns, but it cannot recognize the world. It cannot understand what its outputs refer to (Husserl, 1970; Dennett, 1991). It cannot anchor itself in the realities humans inhabit.
