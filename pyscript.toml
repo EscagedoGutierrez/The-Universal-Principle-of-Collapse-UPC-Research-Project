@@ -1,0 +1,9 @@
+name = "UPC Visual Simulator"
+description = "Browser-based PyScript execution of the UPC operator chain"
+runners = [{ name = "py", js-pin = "latest" }]
+
+packages = [
+  "numpy",
+  "scikit-learn",
+  "sentence-transformers"
+]
