@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UPC Visual Operator Simulator</title>
+    <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css">
+    <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
+    <style>
+        body { font-family: ui-sans-serif, system-ui, sans-serif; background: #0f172a; color: #f8fafc; margin: 0; padding: 16px; }
+        .container { max-width: 900px; margin: 0 auto; background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 20px; box-sizing: border-box; }
+        h2 { font-size: 1.15rem; margin-top: 0; color: #38bdf8; }
+        label { display: block; font-size: 0.85rem; color: #94a3b8; margin-bottom: 6px; }
+        textarea { width: 100%; height: 60px; background: #0f172a; border: 1px solid #334155; border-radius: 6px; color: #fff; padding: 10px; font-size: 0.9rem; box-sizing: border-box; resize: none; }
+        .btn-group { display: flex; gap: 8px; margin: 12px 0; }
+        button { background: #38bdf8; color: #0f172a; border: none; padding: 8px 14px; font-weight: 600; border-radius: 6px; cursor: pointer; font-size: 0.85rem; }
+        button:hover { opacity: 0.9; }
+        .status-box { background: #0f172a; border: 1px solid #334155; border-radius: 6px; padding: 12px; font-size: 0.85rem; margin-top: 12px; }
+        .output-trace { width: 100%; height: 160px; background: #0f172a; border: 1px solid #334155; border-radius: 6px; color: #a5f3fc; font-family: monospace; font-size: 0.75rem; padding: 8px; box-sizing: border-box; margin-top: 10px; resize: none; }
+        .progress-row { display: flex; align-items: center; justify-content: space-between; font-size: 0.8rem; margin-bottom: 4px; font-family: monospace; }
+        .progress-bar-container { background: #0f172a; border: 1px solid #334155; border-radius: 4px; height: 10px; flex-grow: 1; margin: 0 10px; overflow: hidden; }
+        .progress-fill { background: #38bdf8; height: 100%; width: 0%; transition: width 0.3s; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>UPC Visual Operator Simulator — Observer Mechanics vs. Standard QM</h2>
+    
+    <div>
+        <label for="input_text">Input Text String (|PO&gt;):</label>
+        <textarea id="input_text">I recognize the boundary conditions of this system and acknowledge the structural constraints.</textarea>
+    </div>
+
+    <div class="btn-group">
+        <button py-click="reset_pipeline">Load / Reset</button>
+        <button py-click="step_next">Step Next Operator ➔</button>
+        <button id="play_btn" py-click="toggle_play">Auto-Play Pipeline</button>
+    </div>
+
+    <div class="status-box" id="step_info">
+        Click 'Load / Reset' to initialize the pipeline.
+    </div>
+
+    <div style="margin-top: 12px;">
+        <label>Eigenstate Proximity Projections:</label>
+        <div class="progress-row"><span>State_A</span><div class="progress-bar-container"><div id="bar_State_A" class="progress-fill"></div></div><span id="val_State_A">0.000</span></div>
+        <div class="progress-row"><span>T_phantom</span><div class="progress-bar-container"><div id="bar_T_phantom" class="progress-fill"></div></div><span id="val_T_phantom">0.000</span></div>
+        <div class="progress-row"><span>T_mechanized</span><div class="progress-bar-container"><div id="bar_T_mechanized" class="progress-fill"></div></div><span id="val_T_mechanized">0.000</span></div>
+        <div class="progress-row"><span>T_visceral</span><div class="progress-bar-container"><div id="bar_T_visceral" class="progress-fill"></div></div><span id="val_T_visceral">0.000</span></div>
+        <div class="progress-row"><span>T_outlier</span><div class="progress-bar-container"><div id="bar_T_outlier" class="progress-fill"></div></div><span id="val_T_outlier">0.000</span></div>
+    </div>
+
+    <div style="margin-top: 12px;">
+        <label>Classical Trace Record (T):</label>
+        <textarea id="trace_output" class="output-trace" readonly>// Pipeline uninitialized...</textarea>
+    </div>
+</div>
+
+<script type="py" src="./Engineering/upc_visual_simulator.py" config="./pyscript.toml"></script>
+
+</body>
+</html>
